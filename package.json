@@ -1,0 +1,25 @@
+{
+  "name": "nestjs-qcloud-cos",
+  "version": "1.0.0",
+  "description": "Nestjs project app to file upload sdk for qcloud cos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nestjs-cos",
+    "nestjs-qcos",
+    "nestjs-qcloud",
+    "nestjs-qcloud-cos",
+    "nestjs",
+    "cos",
+    "file",
+    "upload"
+  ],
+  "author": "zgren",
+  "license": "MIT",
+  "dependencies": {
+    "cos-nodejs-sdk-v5": "^2.12.4",
+    "dotenv": "^16.3.1"
+  }
+}
