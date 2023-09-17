@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/rzg813/nestjs-qcloud-cos",
   "keywords": [
     "nestjs-cos",
     "nestjs-qcos",
@@ -21,5 +22,9 @@
   "dependencies": {
     "cos-nodejs-sdk-v5": "^2.12.4",
     "dotenv": "^16.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rzg813/nestjs-qcloud-cos.git"
   }
 }
